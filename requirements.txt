@@ -1,2 +1,1 @@
-# The public demo server uses only Python standard library modules.
-# ML training dependencies are intentionally kept in requirements-gpu.txt.
+﻿# no external runtime dependencies
