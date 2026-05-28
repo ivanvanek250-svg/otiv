@@ -1,1 +1,1 @@
-﻿# no external runtime dependencies
+# no external runtime dependencies
